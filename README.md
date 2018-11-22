@@ -1,6 +1,6 @@
 # Android_LuggagePastPickApp
 
-# 어플리 소개
+# 어플리케이션 소개
 
 sw융합 해커톤에 출품한 작품\
 
